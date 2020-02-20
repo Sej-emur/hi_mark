@@ -31,5 +31,6 @@ while not quit_game:
     
     Mark.update
 
+XXXX
 
 #Bare lige for at tjekke om git virker... Jaaa det virkede...ogsåfor mig
